@@ -1,0 +1,48 @@
+.root {}
+
+.web3-form {
+    margin-bottom: 20px;
+}
+
+body,
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: #000;
+    height: 50px;
+    color: #fff;
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.header {
+    .right {
+        display: flex;
+        align-items: center;
+        gap: 30px;
+        padding-right: 20px;
+
+        .gas {
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        .ant-badge-status-text {
+            color: #fff;
+        }
+    }
+}
+
+.main {
+    padding: 20px 30px;
+
+    .ant-form-item {
+        margin-bottom: 20px !important;
+    }
+}

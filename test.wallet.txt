@@ -1,0 +1,22 @@
+
+
+开发测试钱包：
+
+
+钱包地址：
+0x2A6ADf7fbc414D0fFAD6dd1853F4b50b7e1004BF
+
+钱包私钥:
+ddbc0956f992e91a29e2d7537cd3379ff802888056cd47996df34dc7e7ee3b81
+
+助记词:
+brief jewel current catalog column design eternal diary run opera loyal apple
+
+
+
+bnb水龙头：
+https://testnet.bnbchain.org/faucet-smart
+
+领水：
+https://sepoliafaucet.com/
+
